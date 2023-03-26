@@ -1,6 +1,6 @@
-<h1 align="center">Welcome!</h1>
-<img src="https://user-images.githubusercontent.com/11156050/227775756-d41d3247-c346-4235-865e-5d91971e3a74.png" style="width: 100%; height: 340px;"/>
-
+<div align="center"> <h1>Welcome to my GitHub!</h1>
+<img src="https://user-images.githubusercontent.com/11156050/227780143-d8748964-7252-4fdf-b62e-18a408d69d66.jpg"/>
+</div>
 
 <div align="center">
    <a href="https://github.com/ArmandoShala/">
