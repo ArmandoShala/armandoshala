@@ -1,4 +1,6 @@
-<img src="https://swisskyline.ch/images/product_images/popup_images/Zuerich%20Waid%20Sonnenuntergang_3zu8.jpg" width="1800"/>
+<h1 align="center">Welcome!</h1>
+<img src="https://user-images.githubusercontent.com/11156050/227775756-d41d3247-c346-4235-865e-5d91971e3a74.png" style="width: 100%; height: 340px;"/>
+
 
 <div align="center">
    <a href="https://github.com/ArmandoShala/">
@@ -13,19 +15,9 @@
 </div>
 
 ----------------
+<h3 style="font-weight: Normal">Hello! I'm Armando, a committed Computer Science student with a passion for C# and Python. With several years of professional development experience, I have worked on a wide range of projects and collaborated with teams in various companies</h3>
 
-<div align="">
-    <ul>
-        <li> 👋 Hi, I’m Armando </li>
-        <li> 👀 I’m interested in AI & ML </li>
-        <li> 🌱 I’m currently doing my BSc in CS </li>
-        <li> 💞️ I’m looking forward to collaborate, hit me up </li>
-        <li> 📫 tbd </li>
-    </ul>
-</div>
-
-----------------
-
-<img src="https://h2o-digital.com/wp-content/uploads/2015/09/websites-why-you-should-never-use-under-construction-pages.jpg">
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArmandoShala&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=009fe3&ring_color=009fe3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoShala&layout=compact&langs_count=8&theme=transparent&border_color=009fe3" />
 </div>
