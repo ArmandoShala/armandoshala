@@ -18,6 +18,6 @@
 <h3 style="font-weight: Normal">Hello! I'm Armando, a committed Computer Science student with a passion for C# and Python. With several years of professional development experience, I have worked on a wide range of projects and collaborated with teams in various companies</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArmandoShala&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=009fe3&ring_color=009fe3" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoShala&layout=compact&langs_count=8&theme=transparent&border_color=009fe3" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ArmandoShala&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&border_color=009fe3&ring_color=009fe3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoShala&layout=compact&langs_count=8&theme=jolly&border_color=009fe3" />
 </div>
