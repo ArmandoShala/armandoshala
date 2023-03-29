@@ -20,7 +20,24 @@
 <div align="center">
     <img src="https://github-readme-stats-armandoshala.vercel.app/api?username=ArmandoShala&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&border_color=009fe3&ring_color=009fe3" />
     <img src="https://github-readme-stats-armandoshala.vercel.app/api/top-langs/?username=ArmandoShala&layout=compact&langs_count=8&theme=jolly&border_color=009fe3" />
+
+   <br><br>
+   <div style="display: inline_block">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" background="white">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">   
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/android.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+     <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
+   </div>
 </div>
-
-
-https://.vercel.app/
