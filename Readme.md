@@ -20,7 +20,11 @@
 <div align="center">
     <img src="https://github-readme-stats-armandoshala.vercel.app/api?username=ArmandoShala&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&border_color=009fe3&ring_color=009fe3" />
     <img src="https://github-readme-stats-armandoshala.vercel.app/api/top-langs/?username=ArmandoShala&layout=compact&langs_count=8&theme=jolly&border_color=009fe3" />
+</div>
 
+   <!--START_SECTION:activity-->
+   
+<div align="center">
    <br><br>
    <div style="display: inline_block">
      <img align="center" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" background="white">
