@@ -20,7 +20,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ArmandoShala&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&border_color=009fe3&ring_color=009fe3" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoShala&layout=compact&langs_count=8&theme=jolly&border_color=009fe3" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armandoshala&theme=jolly&date_format=j.n[.Y]" alt="armandoshala" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armandoshala&theme=jolly&date_format=j.n[.Y]&stroke=3399CC&border=3399CC" alt="armandoshala" />
 </div>
    <br><br>
 
