@@ -21,6 +21,7 @@
     <img src="https://github-readme-stats-armandoshala.vercel.app/api?username=ArmandoShala&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&border_color=009fe3&ring_color=009fe3" />
     <img src="https://github-readme-stats-armandoshala.vercel.app/api/top-langs/?username=ArmandoShala&layout=compact&langs_count=8&theme=jolly&border_color=009fe3" />
 </div>
+   <br><br>
 
    <!--START_SECTION:activity-->
 1. 🗣 Commented on [#60](https://github.com/GenZHAW/GNX_Webapp/issues/60) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
