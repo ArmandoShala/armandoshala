@@ -23,6 +23,12 @@
 </div>
 
    <!--START_SECTION:activity-->
+1. 🗣 Commented on [#60](https://github.com/GenZHAW/GNX_Webapp/issues/60) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
+2. 🎉 Merged PR [#50](https://github.com/GenZHAW/GNX_Webapp/pull/50) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
+3. 💪 Opened PR [#49](https://github.com/GenZHAW/GNX_Webapp/pull/49) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
+4. ❗️ Closed issue [#32](https://github.com/GenZHAW/GNX_Webapp/issues/32) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
+5. 🎉 Merged PR [#48](https://github.com/GenZHAW/GNX_Webapp/pull/48) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
+<!--END_SECTION:activity-->
    
 <div align="center">
    <br><br>
