@@ -28,9 +28,9 @@
    <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#102](https://github.com/GenZHAW/GNX_Webapp/pull/102) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
-2. ❗️ Closed issue [#89](https://github.com/GenZHAW/GNX_Webapp/issues/89) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
+2. 🔒 Closed issue [#89](https://github.com/GenZHAW/GNX_Webapp/issues/89) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
 3. 🎉 Merged PR [#90](https://github.com/GenZHAW/GNX_Webapp/pull/90) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
-4. ❗️ Closed issue [#86](https://github.com/GenZHAW/GNX_Webapp/issues/86) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
+4. 🔒 Closed issue [#86](https://github.com/GenZHAW/GNX_Webapp/issues/86) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
 5. 🎉 Merged PR [#87](https://github.com/GenZHAW/GNX_Webapp/pull/87) in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
    in [GenZHAW/GNX_Webapp](https://github.com/GenZHAW/GNX_Webapp)
 4. ❗️ Closed issue [#32](https://github.com/GenZHAW/GNX_Webapp/issues/32)
